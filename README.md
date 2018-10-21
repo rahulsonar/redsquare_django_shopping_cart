@@ -1,0 +1,1 @@
+# redsquare_django_shopping_cart
